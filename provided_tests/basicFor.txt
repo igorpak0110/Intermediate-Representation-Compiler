@@ -1,0 +1,9 @@
+a, b;
+{
+	input b;
+
+	FOR ( a = 0; a < b; a = a + 1;){
+		output a;
+	}
+}
+10 200 1 2
